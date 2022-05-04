@@ -64,5 +64,5 @@ Other:
 
 --->
 Find me on:
-![https://www.linkedin.com/in/tonisaraiva/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[https://www.linkedin.com/in/tonisaraiva/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
